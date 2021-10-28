@@ -1,0 +1,26 @@
+p {
+  background-color: grey;
+  border: 1px solid black;
+  font-size: 13px;
+}
+
+.p-1 {
+  background-color: orange;
+}
+
+.p-2 {
+  background-color: blue;
+  color: white;
+}
+
+.p-3 {
+  background-color: white;
+  border: 1px solid rgb(172, 172, 172);
+  font-family: monospace;
+  font-size: 16px;
+}
+
+.p-4 {
+  font-weight: bold;
+  font-size: 16px;
+}
